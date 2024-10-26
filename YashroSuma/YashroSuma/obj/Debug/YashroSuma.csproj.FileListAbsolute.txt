@@ -1,7 +1,0 @@
-C:\Users\Cris\source\repos\YashroSuma\YashroSuma\bin\Debug\YashroSuma.exe.config
-C:\Users\Cris\source\repos\YashroSuma\YashroSuma\bin\Debug\YashroSuma.exe
-C:\Users\Cris\source\repos\YashroSuma\YashroSuma\bin\Debug\YashroSuma.pdb
-C:\Users\Cris\source\repos\YashroSuma\YashroSuma\obj\Debug\YashroSuma.csproj.AssemblyReference.cache
-C:\Users\Cris\source\repos\YashroSuma\YashroSuma\obj\Debug\YashroSuma.csproj.CoreCompileInputs.cache
-C:\Users\Cris\source\repos\YashroSuma\YashroSuma\obj\Debug\YashroSuma.exe
-C:\Users\Cris\source\repos\YashroSuma\YashroSuma\obj\Debug\YashroSuma.pdb
