@@ -1,0 +1,7 @@
+C:\Users\Cris\source\repos\MatematicaSimple\MatematicaSimple\bin\Debug\MatematicaSimple.exe.config
+C:\Users\Cris\source\repos\MatematicaSimple\MatematicaSimple\bin\Debug\MatematicaSimple.exe
+C:\Users\Cris\source\repos\MatematicaSimple\MatematicaSimple\bin\Debug\MatematicaSimple.pdb
+C:\Users\Cris\source\repos\MatematicaSimple\MatematicaSimple\obj\Debug\MatematicaSimple.csproj.AssemblyReference.cache
+C:\Users\Cris\source\repos\MatematicaSimple\MatematicaSimple\obj\Debug\MatematicaSimple.csproj.CoreCompileInputs.cache
+C:\Users\Cris\source\repos\MatematicaSimple\MatematicaSimple\obj\Debug\MatematicaSimple.exe
+C:\Users\Cris\source\repos\MatematicaSimple\MatematicaSimple\obj\Debug\MatematicaSimple.pdb
