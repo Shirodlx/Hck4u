@@ -1,0 +1,7 @@
+C:\Users\Cris\source\repos\Usuario\Usuario\bin\Debug\Usuario.exe.config
+C:\Users\Cris\source\repos\Usuario\Usuario\bin\Debug\Usuario.exe
+C:\Users\Cris\source\repos\Usuario\Usuario\bin\Debug\Usuario.pdb
+C:\Users\Cris\source\repos\Usuario\Usuario\obj\Debug\Usuario.csproj.AssemblyReference.cache
+C:\Users\Cris\source\repos\Usuario\Usuario\obj\Debug\Usuario.csproj.CoreCompileInputs.cache
+C:\Users\Cris\source\repos\Usuario\Usuario\obj\Debug\Usuario.exe
+C:\Users\Cris\source\repos\Usuario\Usuario\obj\Debug\Usuario.pdb
